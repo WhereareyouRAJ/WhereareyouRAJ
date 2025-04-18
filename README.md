@@ -1,6 +1,6 @@
 # 👋 Hey there! I'm Raj
 
-🚀 **DevOps Enthusiast** | ☁️ **AWS Explorer** | 🐧 **Linux Lover**
+🚀 **DevOps Enthusiast** | ☁️ **AWS Explorer** | 
 
 ---
 
