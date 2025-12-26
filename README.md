@@ -1,6 +1,8 @@
 # 👋 Hey there! I'm Raj
 
-🚀 **DevOps Enthusiast** | ☁️ **AWS Explorer** | 
+<div align="center">
+  <img src="https://github.com/WhereareyouRAJ/Whereareyou/blob/main/board.png" alt="RAJ Banner">
+</div>
 
 ---
 
