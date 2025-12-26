@@ -1,7 +1,7 @@
 # 👋 Hey there! I'm Raj
 
 <div align="center">
-  <img src="https://github.com/WhereareyouRAJ/Whereareyou/blob/main/board.png" alt="RAJ Banner">
+  <img src="https://github.com/WhereareyouRAJ/WhereareyouRAJ/blob/main/board.png" alt="RAJ Banner">
 </div>
 
 ---
