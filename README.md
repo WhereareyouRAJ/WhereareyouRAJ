@@ -1,54 +1,74 @@
-# 👋 Hey there! I'm Raj
-
 <div align="center">
-  <img src="https://github.com/WhereareyouRAJ/WhereareyouRAJ/blob/main/board.png" alt="RAJ Banner">
+  <img src="https://vercel.app" width="100%" />
+  
+  <h3>🚀 Senior Platform Engineer | Kubernetes & Cloud Security Expert 🛡️</h3>
+  
+  <p align="center">
+    <a href="https://linkedin.com"><img src="https://shields.io" /></a>
+    <a href="mailto:your.email@example.com"><img src="https://shields.io" /></a>
+  </p>
 </div>
 
 ---
 
-🎯 **Mission Statement**  
-I’m on a journey to master DevOps and Cloud technologies, striving to become a world-class engineer.  
-Through real-world projects, hands-on labs, and challenges, I’m building production-ready skills.
+### 💻 Professional Summary
+Infrastructure specialist focused on **Supply Chain Security (SLSA)** and **Scalable Microservices**. I don't just deploy containers; I build self-healing, multi-architecture platforms that optimize cloud costs and ensure zero-trust integrity.
+
+- 🔭 **Current Focus:** Hardening Kubernetes clusters and automating OIDC-based security.
+- ⚡ **Key Skills:** Digest-based pinning, SBOM generation, and GitOps workflows.
+- 🌍 **Location:** Gurugram, India
 
 ---
 
-### 🛠️ **Tools & Technologies**
+### 🛠️ Tech Stack & Ecosystem
 
-#### ⚙️ **DevOps & Automation**
-<p>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="40" title="Linux"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" title="Git"/>
-    <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="Jenkins" width="40" title="Jenkins"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="40" title="Docker"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" alt="Kubernetes" width="40" title="Kubernetes"/>
-    <img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg" alt="Terraform" width="40" title="Terraform"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg" alt="Ansible" width="40" title="Ansible"/>
+<table align="center">
+  <tr>
+    <td align="center" width="200"><strong>Orchestration</strong></td>
+    <td align="center" width="200"><strong>CI/CD & Security</strong></td>
+    <td align="center" width="200"><strong>Cloud & IaC</strong></td>
+  </tr>
+  <tr>
+    <td>
+      <img src="https://shields.io" /><br/>
+      <img src="https://shields.io" /><br/>
+      <img src="https://shields.io" />
+    </td>
+    <td>
+      <img src="https://shields.io" /><br/>
+      <img src="https://shields.io" /><br/>
+      <img src="https://shields.io" />
+    </td>
+    <td>
+      <img src="https://shields.io" /><br/>
+      <img src="https://shields.io" /><br/>
+      <img src="https://shields.io" />
+    </td>
+  </tr>
+</table>
+
+---
+
+### 📊 Engineering Impact
+<div align="center">
+  <img src="https://vercel.app" height="150" />
+  <img src="https://vercel.app" height="150" />
+</div>
+
+---
+
+### 🌟 Featured Architecture
+#### [Enterprise Retail Platform (Microservices)](https://github.com)
+*A secure, production-grade retail platform deployed on **k3s**.*
+- **SLSA Level 2 Compliance:** Digest-based deployments and automated image signing.
+- **Cost Optimization:** Multi-arch build parity for AMD64/ARM64.
+- **GitOps Ready:** Environment-specific overlays managed via **Kustomize**.
+
+<div align="center">
+  <img src="https://herokuapp.com" width="100%" />
+</div>
+
+<p align="center">
+  <img src="https://vercel.app" />
 </p>
 
-#### ☁️ **Cloud Platforms**
-<p>
-    <p>
-        <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="AWS" width="40" title="Amazon Web Services"/>
-    </p>
-</p>
-
-#### 📊 **Monitoring & Visualization**
-<p>
-    <img src="https://www.vectorlogo.zone/logos/prometheusio/prometheusio-icon.svg" alt="Prometheus" width="40" title="Prometheus"/>
-    <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="Grafana" width="40" title="Grafana"/>
-</p>
-
----
-
-
----
-
-### 🔗 **Connect with Me**
-
-- 💼 [LinkedIn](https://www.linkedin.com/in/raj-singh-a45236309/)  
-- 📂 [GitHub Projects](https://github.com/WhereareyouRAJ)
-
----
-
-**_"Zindagi jugaad se nahi, strategy se jeeti jaati hai."_**  
-_— Raj 🛠️_
